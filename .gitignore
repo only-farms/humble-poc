@@ -5,6 +5,9 @@
 *.so
 *.dylib
 
+# cosmtrek/air builds tbe app on tmp folder
+tmp
+
 # Test binary, built with `go test -c`
 *.test
 
